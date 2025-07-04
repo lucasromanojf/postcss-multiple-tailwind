@@ -1,6 +1,6 @@
 const path = require("path");
 const fs = require("fs");
-const tailwindcss = require("tailwindcss");
+const tailwindcss = require("tailwindcss3");
 
 module.exports = (opts = {}) => {
   /*
